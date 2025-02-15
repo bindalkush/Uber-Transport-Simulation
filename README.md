@@ -10,6 +10,8 @@ A **scalable** and **high-performance** ride-hailing platform designed to handle
 
 ---
 
+<img src="frontend/img1.png" alt="Uber Eats System Architecture" width="750"/>
+
 ## 📌 **Key Features**
 ✔️ **Real-Time Ride Matching** – Assigns drivers dynamically based on user requests.  
 ✔️ **Dynamic Pricing Model** – **LightGBM-based** fare calculation reduces pricing errors by **25%**.  
